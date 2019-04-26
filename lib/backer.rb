@@ -11,6 +11,7 @@ class Backer
   ### the backed_projects have their attribute (an array) in Backer
   
   
+  
   def back_project(project)
        backed_projects << project
     project.backers << self
