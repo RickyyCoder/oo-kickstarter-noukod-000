@@ -10,7 +10,7 @@ class Backer
   ### the backer has his attribute (array) in Project 
   ### the backed_projects have their attribute (an array) in Backer
   
-  
+##
   
   def back_project(project)
        backed_projects << project
